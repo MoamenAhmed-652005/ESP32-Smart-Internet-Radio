@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "category_name": "Islamic Stations",
+      "stations": [
+        { "id": 1, "name": "Quran Radio", "url": "http://n0a.radiojar.com/8s5u5tpdtwzuv" },
+        { "id": 2, "name": "Makkah (MP3 Quran)", "url": "http://live.mp3quran.net:8006/" }
+      ]
+    },
+    {
+      "category_name": "News Stations",
+      "stations": [
+        { "id": 3, "name": "BBC Arabic", "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio" },
+        { "id": 4, "name": "Sky News Arabia", "url": "http://radio.skynewsarabia.com/stream/radio/skynewsarabia" }
+      ]
+    }
+  ]
+}
